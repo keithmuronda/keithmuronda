@@ -42,4 +42,4 @@ Networks,Security and working through HackTheBox labs for more hands on practise
 
 ### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/keith-muronda/) · [WhatsApp](+27 670776259) [Email](murondakeith@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/keith-muronda/) · Email: murondakeith@gmail.com 
