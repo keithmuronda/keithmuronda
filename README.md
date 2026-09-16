@@ -4,7 +4,7 @@ BSc Information Technology student specialising in Network and Security,
 based in Johannesburg. I want to build infrastructure and network systems and document how
 they work , the repos below are labs and projects i am still working on.
 
-Currently looking for an internship, learnership or entry-level role in networking,
+Open for an internship, learnership or entry-level role in networking,
 IT or cybersecurity.
 
 ---
